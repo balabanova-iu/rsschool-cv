@@ -28,4 +28,5 @@ function multiply(a, b){
 - Belarusian State Technological University
 
 ## Languages
+- Russian - native
 - English - A2
