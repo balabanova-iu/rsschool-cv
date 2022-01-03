@@ -1,1 +1,26 @@
-/* style.css */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, main, footer {
+    width: 80%;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.nav-list-item {
+    padding-left: 10px; 
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
