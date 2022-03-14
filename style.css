@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: papayawhip;
+}
+
+header, main, footer {
+    width: 80%;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.nav-list-item {
+    padding-left: 10px; 
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.code {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(61, 2, 61);
+}
